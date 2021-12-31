@@ -1,0 +1,1 @@
+The following is a PHP script for running dictionary attacks against both salted and unsalted password hashes. It is capable of attacking every hash function supported by PHP's hash function, as well as md5(md5), LM, NTLM, MySQL 4.1, and crypt hashes. It also supports crashed session recovery.
